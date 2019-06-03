@@ -1,6 +1,6 @@
-### Testing
+# ROCKYP
+## I am just learning Vue.js
 
-# rockyp
 
 ## Project setup
 ```
